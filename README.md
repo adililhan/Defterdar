@@ -1,5 +1,4 @@
-Defterdar
-=========
+CHANGELOG.md=========
 
 Nicely formatted changelog generator for your git repository.
 
@@ -27,7 +26,7 @@ git push origin v1
 ```bash
 $ php defterdar.php
 ```
-After that, look at ChangeLog.md to see the changes.
+After that, look at CHANGELOG.md to see the changes.
 
 
 ### Are you a ROR(Ruby on Rails) Developer and looking for something more hipster?
