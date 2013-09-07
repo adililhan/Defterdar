@@ -1,9 +1,9 @@
 Defterdar
 =========
 
-PHP and Git with changelog generator
+Nicely formatted changelog generator for your git repository.
 
-#### How to works?
+### usage 
 
 Defterdar works with __"git tags"__.
 
@@ -22,16 +22,16 @@ git push origin v1
 
 ```
 
-Calling now defterdar.php.
+### action 
 
-e.g.: __`php defterdar.php`__
+```bash
+$ php defterdar.php
+```
+After that, look at ChangeLog.md to see the changes.
 
-Look at your CHANGELOG.md file.
 
+### Are you a ROR(Ruby on Rails) Developer and looking for something more hipster?
 
+No worries.
 
-#### You are RoR (Ruby on Rails) Developer?
-
-No problem.
-
-Look at __[Katip Project](https://github.com/kebab-project/katip/)__.
+See __[Katip Project](https://github.com/kebab-project/katip/)__.
