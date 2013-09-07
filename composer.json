@@ -1,0 +1,13 @@
+{
+    "name": "adililhan/defterdar",
+    "description": "PHP and Git with changelog generator",
+    "authors": [
+        {
+            "name": "Adil Ilhan",
+            "email": "adilmedya@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
