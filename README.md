@@ -1,4 +1,5 @@
-CHANGELOG.md=========
+Defterdar
+=========
 
 Nicely formatted changelog generator for your git repository.
 
